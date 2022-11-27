@@ -1,0 +1,50 @@
+
+
+body{
+  font-family: 'Cabin', sans-serif;
+}
+
+.titulo-navbar{
+  font-family:'Lobster',cursive;
+}
+
+
+.carousel {
+    margin-bottom: 40px;
+  }
+  .carousel-indicators {
+    top: 105%;
+  }
+  .carousel-indicators [data-bs-target] {
+    height: 11px;
+    width: 11px;
+  }
+  .linea2, .linea3{  
+    border: 1px solid black;
+  }
+
+
+#card-contenedor{
+  padding-top:200px;
+  margin-top: 20px;
+}
+
+.carta-inferior{
+  height: 400px;
+  text-align: center;
+  font-size: 20px;
+}
+.ricomidatexto{
+  font-family:'Lobster';
+}
+
+
+
+.titulo-seccion-inferior{
+  font-size: 45px;
+}
+
+.titulo-seccion-inferior2{
+  font-size: 30px;
+
+}
